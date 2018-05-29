@@ -1,0 +1,263 @@
+@charset "utf-8";
+
+
+.head{
+	padding:32px 18px 24px 20px;
+}
+
+.kuang .t1{
+	width: 379px;
+	height: 24px;
+	background-position: 98% center;
+}
+.content1 .img1 img{
+	height: 342px;
+}
+.content1 .wenzi{
+	width: 312px;
+	height: 210px;
+}
+.content1 .wenzi h4{
+	padding-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+.content1 .wenzi p{
+	margin-bottom: 42px;
+	margin-left: 20px;
+}
+.content1 .wenzi a{
+	margin-left: 20px;
+}
+.content1{
+	position: relative;
+}
+.content1 .wenzi{
+	position: absolute;
+	left:50%;
+	top:22px;
+	margin-left: -482px;
+}
+
+.content8,.content9,.content10,.content11,.content12,.content13,.content14,.content15,.content16,.footer2{
+	display: none;
+}
+.content18{
+	width: 235px;
+	float: left;
+}
+.content18 h3{
+	font-size: 32px;
+	line-height: 1;
+	margin-bottom: 22px;
+	font-weight: normal;
+}
+.content18 .u1 li{
+	line-height: 40px;
+	margin-right: 18px;
+	color:#159CD5;
+}
+.content18 .u1 li a{
+	color: #1570A6;
+}
+.content19 .u2 li{
+	float: left;
+	margin-right: 10px;
+	height: 30px;
+	
+}
+.content19{
+	float: left;
+}
+.content19 .u2 li a{
+	color:#000;
+	line-height: 30px;
+	padding:8px 6px;
+}
+.content19 .u2 li:hover a{
+	color:#fff;
+}
+.content19 .u2 li:hover{
+	background: #1570A6;
+}
+.content19 .u2 {
+	margin-bottom: 16px;
+}
+.content18 .u1{
+	margin-bottom: 22px;
+}
+.content17{
+	margin-top: 65px;
+}
+
+.content20{
+	float: left;
+	margin-top: 12px;
+}
+
+
+.content20 li{
+	width: 227px;
+	font-size: 12px;
+	float: left;
+}
+.content20 li a{
+	height: 40px;
+	line-height: 24px;
+	color: #1570A6;
+	font-size: 12px;
+}
+.content20{
+	width: 718px;
+	margin-bottom: 60px;
+}
+.content20 li:nth-child(2){
+	margin: 0 18px;
+}
+
+
+.content21 h3{
+	font-size: 26px;
+	color:#1A1A1A;
+	margin-bottom: 32px;
+	font-weight: normal;
+	
+}
+.content21 ul{
+	margin-bottom: 54px;
+
+}
+.content21 ul li a{
+	font-size: 12px;
+	line-height: 30px;
+	color: #1570A6;
+}
+.content21 .kuai{
+	float: left;
+	width: 227px;
+}
+
+.content21 .kuai:nth-child(2){
+	margin: 0 18px;
+}
+
+.content22 img{
+	width: 100%;
+}
+
+
+.content23{
+	background: #EEEEEE;
+	padding-top: 30px;
+}
+.content23 h5{
+	font-size: 16px;
+	line-height: 34px;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+.content24 li{
+	padding-left: 36px;
+	line-height: 32px;
+	font-size: 14px;
+}
+.content24 li a {
+	color: #000;
+}
+.content24 .li1{background: url(../images/f16.png) no-repeat;}
+.content24 .li2{background: url(../images/tu2.png) no-repeat;}
+.content24 .li3{background: url(../images/tu3.png) no-repeat;}
+.content24 .li4{background: url(../images/tu4.png) no-repeat;}
+.content24 .li5{background: url(../images/tu5.png) no-repeat;}
+.content24 .li6{background: url(../images/tu6.png) no-repeat;}
+.content24 .li7{background: url(../images/tu7.png) no-repeat;}
+.content24 .li8{background: url(../images/tu8.png) no-repeat;}
+.content24{
+	float: left;
+	width: 25%;
+	margin-left: 20px;
+}
+.content25 li a{
+	font-size: 14px;
+	color:#1570A6;
+	line-height: 24px;
+}
+.content25{
+	float: left;
+	width: 25%;
+}
+
+.content26{
+	font-size: 14px;
+	color:#1570A6;
+	line-height: 24px;
+	margin-bottom: 22px;
+}
+.content26 h5{
+	color:#000;
+	font-weight: normal;
+}
+.content26 ul li a{
+	font-size: 14px;
+	color: #1570A6;
+}
+.content27 li a{
+	font-size: 14px;
+	color:#1570A6;
+	line-height: 24px;
+}
+.content27{
+	float: left;
+	width: 25%;
+}
+
+.content23 .p1{
+	font-size: 12px;
+	color:#8C70AB;
+	background: url(../images/f13.png) no-repeat left top;
+	padding-left: 35px;
+	margin-left: 20px;
+	float: left;
+	height: 42px;
+	width: 88%;
+}
+
+.content23 h4{
+	float: right;
+	margin-right: 20px;
+}
+.content23 .uu li{
+	float: left;
+	font-size: 15px;
+	margin-right: 25px;
+	margin-left: 20px;
+}
+.content23 .uu .l1{
+	color: #1570A6;
+	font-size: 12px;
+}
+.content23 .uu .l2{
+	font-size: 12px;
+}
+.content23 .uu .l3{
+	float: right;
+	margin-right: 16px;
+}
+
+
+
+.content24,.content25,.content26,.content27{
+	height: 386px;
+}
+
+.content17,.content18,.content19,.content20,.content21,.content22,.content23,.content24,.content25,.content26,.content27{
+	display: block;
+}
+.gWidth{
+	width: 968px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
